@@ -97,3 +97,8 @@ body {
   background-color: #fff;
   color: #222222;
 }
+@media screen and (max-width: 850px) {
+  .container {
+    width: 80%;
+  }
+}
